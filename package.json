@@ -27,7 +27,7 @@
     "url": "https://github.com/cgjs/stream/issues"
   },
   "homepage": "https://github.com/cgjs/stream#readme",
-  "dependencies": {
-    "cgjs": "^0.1.3"
+  "devDependencies": {
+    "cgjs": "^0.1.9"
   }
 }
