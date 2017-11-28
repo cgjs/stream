@@ -1,1 +1,2 @@
-// coming soon
+
+this.Readable = require('./src/Readable.js');

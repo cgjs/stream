@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/cgjs/stream#readme",
   "devDependencies": {
-    "cgjs": "^0.1.9"
+    "@cgjs/events": "^0.1.0",
+    "cgjs": "^0.1.15"
   }
 }
